@@ -1,8 +1,5 @@
 import streamlit as st
 import pandas as pd
-st.set_page_config(layout="wide")
-# Streamlit app
-import streamlit as st
 page_bg_img = f"""
     <style>
     [data-testid="stAppViewContainer"] > .main {{
