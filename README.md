@@ -29,11 +29,6 @@ This web application, developed with Streamlit, allows real-time digit recogniti
     cd mnist-digit-recognition
     ```
 
-3. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## How to Run:
 
